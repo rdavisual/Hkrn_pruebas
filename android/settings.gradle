@@ -1,0 +1,3 @@
+rootProject.name = 'Hkrn_pruebas'
+
+include ':app'
